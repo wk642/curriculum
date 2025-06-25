@@ -19,6 +19,7 @@ A fully responsive recipe webpage
 - CSS styling
 - Responsive design using Bootstrap
 - Functional navigation qith javascript
+- Have a total of 50 commits
 
 ## 🗓️ FT Program Weekly Breakdown
 
@@ -55,7 +56,9 @@ A fully responsive recipe webpage
 3. Version Control:
    - Make at least 15 commits throughout development
    - Submit a pull request and ensure it's reviewed by a mentor
-     **Phase 2: Add styling with CSS**
+(Reminder: Make progress to your 50 commits)
+**Phase 2: Add styling with CSS**
+
 4. Project Structure:
    - Set up a proper file tree for organization
    - Create a CSS file and link it in the HTML `<head>`
@@ -66,6 +69,7 @@ A fully responsive recipe webpage
    - Constrain the description width to match the image
    - Display the image and ingredients on the left
    - Display the instructions on the right
+(Reminder: Make progress to your 50 commits)
 
 ## Week 2 Milestones Overview
 
@@ -75,6 +79,7 @@ A fully responsive recipe webpage
 2. Add column classes to your divs to make the webpage responsive
 3. Add containers for the navigation bar and content
 4. Add a navigation bar to the top of your webpage
+(Reminder: Make progress to your 50 commits)
 
 ## Setup Instructions
 
@@ -85,6 +90,7 @@ cd recipe-page
 ```
 
 ### Phase 4 - Incorporate JS DOM
+(Reminder: Make sure there are at least 50 commits)
 
 #### Languages
 
